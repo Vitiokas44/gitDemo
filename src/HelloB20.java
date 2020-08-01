@@ -11,9 +11,10 @@ public class HelloB20 {
         System.out.println();
         System.out.println("salut);
          System.out.println("salut);  
-                             System.out.println("salut);
-                                                System.out.println("salut);
-                                                                  System.out.println("salut);
+       System.out.println("salut);
+       System.out.println("salut);
+         System.out.println("salut);
+                            System.out.println("goog);
         
     }
 
