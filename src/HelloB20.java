@@ -1,4 +1,4 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 
 public class HelloB20 {
     public static void main(String[] args) {
@@ -6,6 +6,7 @@ public class HelloB20 {
         System.out.println("hello");
 
         System.out.println();
+        System.out.println("hi");
     }
 
 }
