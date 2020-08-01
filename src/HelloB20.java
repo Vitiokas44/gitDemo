@@ -7,6 +7,7 @@ public class HelloB20 {
 
         System.out.println();
         System.out.println("hi");
+        System.out.println();
     }
 
 }
